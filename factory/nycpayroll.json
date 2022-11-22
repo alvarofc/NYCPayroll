@@ -1,0 +1,9 @@
+{
+	"name": "nycpayroll",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a2031e78-33de-41d8-bae3-9dd9cafb87c2",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
